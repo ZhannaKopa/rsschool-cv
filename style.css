@@ -1,6 +1,9 @@
-h1 {
-  color:blue;
-}
 p {
-  background-color:green;
+    color:blue;
+}
+header {
+    background-color: blueviolet;
+}
+main {
+    background-color: aqua;
 }
